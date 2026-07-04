@@ -1,10 +1,3 @@
-//
-//  RecallApp.swift
-//  Recall
-//
-//  Created by Keith Laurendine Jr on 6/8/26.
-//
-
 import SwiftUI
 
 @main
@@ -13,5 +6,6 @@ struct RecallApp: App {
         WindowGroup {
             ContentView()
         }
+        .windowStyle(.hiddenTitleBar)
     }
 }
