@@ -1,6 +1,6 @@
 # Recall
 
-> An adaptive study platform built with SwiftUI that combines spaced repetition, personalized learning analytics, and intelligent review recommendations.
+> Adaptive SwiftUI study platform featuring spaced repetition, learning analytics, and intelligent review recommendations.
 
 ---
 
