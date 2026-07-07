@@ -26,6 +26,22 @@ The project explores modern software architecture, state management, and scalabl
 
 ---
 
+## Screenshots
+
+### Analytics Dashboard
+
+![Analytics Dashboard](assets/dashboard.png)
+
+### Active Recall Session
+
+![Active Recall Session](assets/review-session.png)
+
+### MCAT Review Home
+
+![MCAT Review Home](assets/home-review.png)
+
+---
+
 ## Technology Stack
 
 | Category | Technologies |
