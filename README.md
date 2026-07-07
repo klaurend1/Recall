@@ -42,6 +42,14 @@ The project explores modern software architecture, state management, and scalabl
 
 ---
 
+## Software Architecture
+
+![Recall Architecture](assets/architecture-diagram.png)
+
+Recall follows a modular MVVM architecture that separates the user interface, business logic, data access, and local persistence layers. This structure makes the app easier to maintain, scale, and extend with features like semantic search, knowledge graphs, and PDF import.
+
+---
+
 ## Technology Stack
 
 | Category | Technologies |
